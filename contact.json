@@ -1,0 +1,18 @@
+[
+	{
+		"name": "jake",
+		"email": "jake@epost.com",
+		"age":29
+	},
+	{
+		"name": "mary",
+		"email": "mary@epost.com",
+		"age":29
+	},
+	{
+		"name": "al",
+		"email": "al@epost.com",
+		"age":29
+	}
+
+]
