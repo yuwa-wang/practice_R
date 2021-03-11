@@ -1,0 +1,9 @@
+TC=TC123#hwo
+txt_cha=abc
+numInt=42
+numFlt=13.37
+txt_str="3xSC 2xPP"
+# Comment: unsure if below should be included
+#key=value
+keyisthis=value2
+included=thing
